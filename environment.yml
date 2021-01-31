@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - gspread
+  - ipywidgets
+  - numpy 
+  - pandas
+  - tornado 
+  - voila
