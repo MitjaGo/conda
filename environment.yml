@@ -6,3 +6,5 @@ dependencies:
   - numpy 
   - pandas 
   - voila
+  - ipython
+  - ipython-genutils
